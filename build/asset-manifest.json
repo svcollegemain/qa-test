@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/testForSvCollege/static/css/main.25fc7b42.css",
-    "main.js": "/testForSvCollege/static/js/main.4e8c2189.js",
-    "static/media/back.jpg": "/testForSvCollege/static/media/back.06bbe1c359b449b32c4a.jpg",
-    "static/media/LOGO.png": "/testForSvCollege/static/media/LOGO.9b41e475fd9c27c2333e.png",
-    "static/media/Capture.PNG": "/testForSvCollege/static/media/Capture.245b244080f40ddab0aa.PNG",
-    "static/media/Capture3.PNG": "/testForSvCollege/static/media/Capture3.d17b606f9f098f69fd78.PNG",
-    "static/media/Capture1.PNG": "/testForSvCollege/static/media/Capture1.a2eb9650579b7886a5a2.PNG",
-    "index.html": "/testForSvCollege/index.html",
-    "main.25fc7b42.css.map": "/testForSvCollege/static/css/main.25fc7b42.css.map",
-    "main.4e8c2189.js.map": "/testForSvCollege/static/js/main.4e8c2189.js.map"
+    "main.css": "/qatest/static/css/main.25fc7b42.css",
+    "main.js": "/qatest/static/js/main.c6e22733.js",
+    "static/media/LOGO.png": "/qatest/static/media/LOGO.9b41e475fd9c27c2333e.png",
+    "static/media/Capture.PNG": "/qatest/static/media/Capture.245b244080f40ddab0aa.PNG",
+    "static/media/Capture3.PNG": "/qatest/static/media/Capture3.d17b606f9f098f69fd78.PNG",
+    "static/media/Capture1.PNG": "/qatest/static/media/Capture1.a2eb9650579b7886a5a2.PNG",
+    "index.html": "/qatest/index.html",
+    "main.25fc7b42.css.map": "/qatest/static/css/main.25fc7b42.css.map",
+    "main.c6e22733.js.map": "/qatest/static/js/main.c6e22733.js.map"
   },
   "entrypoints": [
     "static/css/main.25fc7b42.css",
-    "static/js/main.4e8c2189.js"
+    "static/js/main.c6e22733.js"
   ]
 }

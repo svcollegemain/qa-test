@@ -20,7 +20,7 @@ export default function Result() {
             return (
                 <div style={{backgroundColor:'green'}} className="card-body">
                  קיימת התאמה לקורס   
-                <div>{parseInt(finalGrade)}</div>    
+                {/* <div>{parseInt(finalGrade)}</div>     */}
         </div>
         )
            
@@ -31,7 +31,7 @@ export default function Result() {
             return (
                 <div style={{backgroundColor:'green'}} className="card-body">
                  קיימת התאמה גבולית לקורס   
-                <div>{parseInt(finalGrade)}</div>    
+                 {/* <div>{parseInt(finalGrade)}</div>     */}
         </div>
         )
            
@@ -42,7 +42,7 @@ export default function Result() {
                 return (
                     <div style={{backgroundColor:'red'}} className="card-body">
                     כדאי לבדוק התאמה לקורס אחר     
-                    <div>{parseInt(finalGrade)}</div>    
+                      {/* <div>{parseInt(finalGrade)}</div>     */}
             </div>
             )
                
