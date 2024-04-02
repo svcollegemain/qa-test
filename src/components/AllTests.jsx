@@ -15,8 +15,8 @@ export default function AllTests() {
                 {tests.map((test)=>(
                     <ChooseTests key='QA' logo={test.logo} info={test.info} title='qa'/>
                 ))}
-                <p className="mb-0">
-                    SVCOLLEGE כל הזכויות שמורות@
+               <p className="mb-0">
+                    @SVCOLLEGE כל הזכויות שמורות
                 </p>
             </div>
         </div>

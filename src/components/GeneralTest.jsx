@@ -91,8 +91,8 @@ export default function GeneralTest() {
                 {show()}
             </div>
             <p className="mb-0">
-                    SVCOLLEGE כל הזכויות שמורות@
-            </p>
+                    @SVCOLLEGE כל הזכויות שמורות
+                </p>
         </div>
     )
 }

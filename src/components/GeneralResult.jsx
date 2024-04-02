@@ -57,8 +57,8 @@ export default function GeneralResult() {
                 {result()}
             </div>
             <p className="mb-0">
-                SVCOLLEGE כל הזכויות שמורות@
-            </p>
+                    @SVCOLLEGE כל הזכויות שמורות
+                </p>
         </div>
     )
 
