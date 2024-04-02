@@ -1,11 +1,11 @@
 import React,{useState,useEffect} from 'react'
 import LOGO from '../Images/LOGO.png'
 import {questions} from '../TestDescription/questions.js'
-import Question from './Question'
-import ValidResult from './ValidResult'
-import store from '../StateManager/store'
+import Question from './Question.jsx'
+import ValidResult from './ValidResult.jsx'
+import store from '../StateManager/store.js'
 import { useTimer } from 'react-timer-hook';
-import Result from '../components/Result'
+import Result from './Result.jsx'
 
 export default function AllQuestions() {
     

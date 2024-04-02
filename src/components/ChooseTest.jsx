@@ -27,7 +27,7 @@ export default function ChooseTest({ info, title }) {
                                 {info}
                             </p>
                             <a className="btn btn-primary stretched-link">
-                                <small >התחלנו את המבחן</small>
+                                <small >התחל את המבחן</small>
                             </a>
                         </div>
                     </div>
